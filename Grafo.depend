@@ -1,35 +1,15 @@
 # depslib dependency file v1.0
-1566394313 source:c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_interfaz_grafo\grafo\main.cpp
+1681588956 source:e:\programas\grafo\main.cpp
 	"Grafo.h"
 	"iostream"
 
-1566395342 c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_interfaz_grafo\grafo\grafo.h
-	<list>
-	<set>
-	<map>
-	<queue>
-	<vector>
-
-1566395359 source:c:\users\federico\documents\unicen\algoritmos ii\material\02_grafo\main.cpp
+1681593315 source:e:\programas\grafo\src\grafo.cpp
 	"Grafo.h"
-	"iostream"
 
-1598390887 c:\users\federico\documents\unicen\algoritmos ii\material\02_grafo\grafo.h
+1681588911 e:\programas\grafo\include\grafo.h
 	<list>
-	<set>
 	<map>
-	<queue>
-	<vector>
 
-1650597307 source:e:\segundo año\aida 2\grafo\main.cpp
+1663457439 e:\programas\grafo\include\servicios.h
 	"Grafo.h"
-	"iostream"
-
-1650597358 e:\segundo año\aida 2\grafo\grafo.h
-	<list>
-	<set>
-	<map>
-	<queue>
-	<vector>
-	"iostream"
 

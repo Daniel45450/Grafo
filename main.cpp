@@ -18,7 +18,6 @@ ostream & operator << (ostream & salida, const Grafo<C> & grafo)
 		grafo.devolver_adyacentes(*v, adyacentes);
 		typename list<typename Grafo<C>::Arco>::iterator ady = adyacentes.begin();
 		while (ady != adyacentes.end()) {
-
 			salida << "    " << *v << "-> " << ady->devolver_adyacente() << " (" << ady->devolver_costo() << ")\n";
 			ady++;
 		}
